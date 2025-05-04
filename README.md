@@ -14,6 +14,7 @@ Este repositorio contiene materiales prácticos, notebooks y recursos teóricos 
 
 | Carpeta | Tema | Descripción |
 |--------|------|-------------|
+| [000_Catalaogo_de_imagenes](./000_Catalaogo_de_imagenes) | Catálogo de imagenes | Recopilación de imágenes usadas en todos los proyectos del repositorio **Procesamiento_Imagenes**. |
 | [000_Orígenes_Imagen_y_Movimiento](./000_Origenes_Imagen_y_Movimiento) | Cámara Oscura y Movimiento | Introducción a los conceptos físicos e históricos de la imagen y el movimiento. Actividades relacionadas con la cámara oscura. |
 | [001_Imagenes_Introduccion](./001_Imagenes_Introduccion) | Introducción a la Imagen Digital | Definiciones básicas, niveles de gris, píxeles y codificación digital. |
 | [002_Tratamiento_de_Imagenes](./002_Tratamiento_de_Imagenes) | Tratamiento Preliminar | Operaciones básicas sobre imágenes: inversión, umbralización, rotación, filtros básicos. |
