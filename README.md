@@ -17,14 +17,15 @@ Este repositorio contiene materiales prácticos, notebooks y recursos teóricos 
 | [000_Orígenes_Imagen_y_Movimiento](./000_Origenes_Imagen_y_Movimiento) | Cámara Oscura y Movimiento | Introducción a los conceptos físicos e históricos de la imagen y el movimiento. Actividades relacionadas con la cámara oscura. |
 | [001_Imagenes_Introduccion](./001_Imagenes_Introduccion) | Introducción a la Imagen Digital | Definiciones básicas, niveles de gris, píxeles y codificación digital. |
 | [002_Tratamiento_de_Imagenes](./002_Tratamiento_de_Imagenes) | Tratamiento Preliminar | Operaciones básicas sobre imágenes: inversión, umbralización, rotación, filtros básicos. |
-| [003_Apropiacion](./003_Apropiacion) | Apropiación Creativa | Actividad de intervención artística y creativa sobre imágenes. |
+| [003_Apropiacion](./003_Apropiacion) | Apropiación | Actividad de intervención artística y creativa sobre imágenes. |
 | [004_Sampling](./004_Sampling) | Muestreo Espacial | Reducción de resolución mediante muestreo a intervalos. Análisis de resolución y pérdida de información. |
 | [005_Color](./005_Color) | Espacios de Color | Fundamentos del color, componentes RGB, conversión a escala de grises. |
 | [006_Muestreo_y_Cuantificacion](./006_Muestreo_y_Cuantificacion) | Cuantización de Imágenes | Reducción de niveles de gris y resolución espacial. Visualización de histogramas. |
 | [007_Segmentacion](./007_Segmentacion) | Segmentación de Imágenes | Técnicas para separar objetos del fondo y detección de bordes. |
 | [008_Integracion](./008_Integracion) | Integración de Contenidos | Ejercicio de síntesis e integración de técnicas trabajadas durante la cursada. |
-| [009_Apropiacion](./009_Apropiacion) | Apropiación Final | Proyecto de apropiación personal con herramientas de procesamiento de imágenes. |
-
+| [009_Apropiacion](./009_Apropiacion) | Apropiación | Proyecto de apropiación personal con herramientas de procesamiento de imágenes. |
+| [010_Apropiacion](./010_Apropiacion) | Apropiación | Proyecto de apropiación personal con herramientas de procesamiento de imágenes. |
+| [011_Apropiacion](./011_Apropiacion) | Apropiación | Proyecto de apropiación personal con herramientas de procesamiento de imágenes. |
 ---
 
 Cada carpeta contiene notebooks (`.ipynb`), imágenes, y archivos complementarios en formato `.md` o `.txt`.
