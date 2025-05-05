@@ -26,6 +26,17 @@ Este repositorio contiene materiales prácticos, notebooks y recursos teóricos 
 | [009_Apropiacion](./009_Apropiacion) | Apropiación | Proyecto de apropiación personal con herramientas de procesamiento de imágenes. |
 | [010_Apropiacion](./010_Apropiacion) | Apropiación | Proyecto de apropiación personal con herramientas de procesamiento de imágenes. |
 | [011_Apropiacion](./011_Apropiacion) | Apropiación | Proyecto de apropiación personal con herramientas de procesamiento de imágenes. |
+| [012_Procesamiento](./012_Procesamiento) | Procesamiento | Lectura, Guardado y Visualización de Imágenes con PIL. |
+| [013_Procesamiento](./013_Procesamiento) | Procesamiento | Lectura, Conversión y Análisis de Imágenes en Python. |
+| [014_Procesamiento](./014_Procesamiento) | Procesamiento | Procesamiento Básico de Imágenes en Python. |
+| [015_Espacios_de_color](./015_Espacios_de_color) | Espacios de color | Exploración y Conversión de Espacios de Color. |
+| [016_Template_Matching](./[016_Template_Matching) | Template Matching | Detección de Patrones con Template Matching. |
+| [017_Imagen_Digital](./017_Imagen_Digital) | Imagen Digital | Introducción a la Imagen Digital y Operaciones Básicas. |
+| [018_Recorte_Extraccion_y_Perspectiva](./018_Recorte_Extraccion_y_Perspectiva) | Recorte Extracción y Perspectiva | Recorte y Corrección de Perspectiva en Imágenes. |
+| [019_Figuras_Geometricas](./019_Figuras_Geometricas) | Figuras Geométricas | Dibujar Figuras y Agregar Texto en Imágenes con OpenCV. |
+| [020_Deteccion_de_rostros](./020_Deteccion_de_rostros) | Detección de rostros | Detección de Rostros en Imágenes Estáticas. |
+| [021_Mejoras_del_Color](./021_Mejoras_del_Color) | Mejoras del Color | Mejora de Color, Contraste y Luminosidad en Imágenes. |
+| [022_Integración_2](./022_Integración_2) | Integración_2 | Actividad Integradora de Procesamiento Digital de Imágenes. |
 ---
 
 Cada carpeta contiene notebooks (`.ipynb`), imágenes, y archivos complementarios en formato `.md` o `.txt`.
