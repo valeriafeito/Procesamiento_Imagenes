@@ -38,6 +38,16 @@ Este repositorio contiene materiales prácticos, notebooks y recursos teóricos 
 | [020_Deteccion_de_rostros](./020_Deteccion_de_rostros) | Detección de rostros | Detección de Rostros en Imágenes Estáticas. |
 | [021_Mejoras_del_Color](./021_Mejoras_del_Color) | Mejoras del Color | Mejora de Color, Contraste y Luminosidad en Imágenes. |
 | [022_Integración_2](./022_Integración_2) | Integración_2 | Actividad Integradora de Procesamiento Digital de Imágenes. |
+| [023_Operaciones_Morfologicas](./023_Operaciones_Morfologicas | Operaciones Morfologicas |  Técnicas Morfológicas en Imágenes Binarias. |
+| [024_Restauracion](./024_Restauracion) | Restauracion | Restauración de Imágenes con Técnicas de Filtrado. |
+| [025_Landmarks_Faciales](./025_Landmarks_Faciales) | Landmarks Faciales | Detección de Landmarks Faciales con Mediapipe. |
+| [026_Integración_3](./026_Integración_3) | Integración_3 | Detección de Rostros y aplicación de Landmarks Faciales con Mediapipe. |
+| [027_Clasificación](./027_Clasificación) | Clasificación | Clasificación de Objetos en Imágenes con KNN. |
+| [028_Red_Neuronal](./028_Red_Neuronal) | Red Neuronal | Conversión de Celsius a Fahrenheit utilizando una Red Neuronal Simple. |
+| [029_Integración_4](./029_Integración_4) | Integración_4 | Clasificación de imágenes con una CNN básica. |
+| [030_Filtros_de_Activacion](./030_Filtros_de_Activacion) | Filtros de Activacion | Visualización de Filtros y Activaciones en una CNN Entrenada. |
+
+
 ---
 
 Cada carpeta contiene notebooks (`.ipynb`), imágenes, y archivos complementarios en formato `.md` o `.txt`.
