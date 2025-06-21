@@ -38,7 +38,7 @@ Este repositorio contiene materiales prácticos, notebooks y recursos teóricos 
 | [020_Deteccion_de_rostros](./020_Deteccion_de_rostros) | Detección de rostros | Detección de Rostros en Imágenes Estáticas. |
 | [021_Mejoras_del_Color](./021_Mejoras_del_Color) | Mejoras del Color | Mejora de Color, Contraste y Luminosidad en Imágenes. |
 | [022_Integración_2](./022_Integración_2) | Integración_2 | Actividad Integradora de Procesamiento Digital de Imágenes. |
-| [023_Operaciones_Morfologicas](./023_Operaciones_Morfologicas | Operaciones Morfologicas |  Técnicas Morfológicas en Imágenes Binarias. |
+| [023_Operaciones_Morfologicas](./023_Operaciones_Morfologicas) | Operaciones Morfologicas |  Técnicas Morfológicas en Imágenes Binarias. |
 | [024_Restauracion](./024_Restauracion) | Restauracion | Restauración de Imágenes con Técnicas de Filtrado. |
 | [025_Landmarks_Faciales](./025_Landmarks_Faciales) | Landmarks Faciales | Detección de Landmarks Faciales con Mediapipe. |
 | [026_Integración_3](./026_Integración_3) | Integración_3 | Detección de Rostros y aplicación de Landmarks Faciales con Mediapipe. |
