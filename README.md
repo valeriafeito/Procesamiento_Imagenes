@@ -46,11 +46,26 @@ Este repositorio contiene materiales prácticos, notebooks y recursos teóricos 
 | [028_Red_Neuronal](./028_Red_Neuronal) | Red Neuronal | Conversión de Celsius a Fahrenheit utilizando una Red Neuronal Simple. |
 | [029_Integración_4](./029_Integración_4) | Integración_4 | Clasificación de imágenes con una CNN básica. |
 | [030_Filtros_de_Activacion](./030_Filtros_de_Activacion) | Filtros de Activacion | Visualización de Filtros y Activaciones en una CNN Entrenada. |
+| [031_CNN](./031_CNN) | Redes Neuronales Convolucionales (CNN)  | Redes Neuronales Convolucionales (CNN) - Clasificación de Imágenes. |
+| [032_Gemini](./032_Gemini) |  Generación de Imágenes Artificiales con Gemini 2  |  Generación de Imágenes Artificiales con Gemini 2 - Análisis Espacial. |
+| [033_Stable_Diffusion](./033_Stable_Diffusion) | Stable Diffusion | Introducción a Stable Diffusion - Generación de Imágenes Sintéticas. |
+| [034_Stable_Diffusion](./034_Stable_Diffusion) | Stable Diffusion| Generación de Imágenes Sintéticas con Stable Diffusion - Avanzado. |
+| [035_Webcam](./035_Webcam) | Webcam Colab | Captura de Imágenes en Google Colab mediante Webcam. |
+| [036_Gradio](./036_Gradio) | Gradio - Introducción | Introducción a Interfaces Gradio para Procesamiento de Imágenes. |
+| [037_Gradio](./037_Gradio) | Gradio - Avanzado | Aplicación de Procesamiento Digital de Imágenes con Interfaz Gráfica Gradio. |
+| [038_Gradio](./038_Gradio) | Gradio - Avanzado | Aplicación de Procesamiento Digital de Imágenes con Interfaz Gráfica Gradio. |
+| [039_Integracion_5](./039_Integracion_5) | Yolo | Clasificador de Residuos con YOLOv8 y Visión por Computadora. |
+| [040_PDI](./040_PDI) | Procesamiento Digital de Imágenes | Ejercicios de Práctica en Procesamiento Digital de Imágenes. |
+| [041_Img_Caption](./041_Img_Caption) | Image Captioning | Generación de Descripciones de Imágenes (Image Captioning). |
+| [042_Faker](./042_Faker) | Faker | Generación de Datos Sintéticos con Faker. |
+| [043_Resnet](./043_Resnet) | Resnet - Computer Vision | Clasificación de Imágenes con Transfer Learning - ResNet18. |
+| [044_Transfer_Learning](./044_Transfer_Learning) | Transfer Learning  - Computer Vision | Introducción al Transfer Learning en Visión por Computadora. |
+| [045_VGG16](./045_VGG16) | VGG16 - Computer Vision | Transfer Learning con VGG16 - Clasificación de Imágenes. |
 
 
 ---
 
-Cada carpeta contiene notebooks (`.ipynb`), imágenes, y archivos complementarios en formato `.md` o `.txt`.
+Cada carpeta contiene notebooks (`.ipynb`), imágenes, y archivos complementarios en formato `.md` o `.txt` o `.ppt` o `.pdf` .
 
 > 🔍 Este repositorio está en crecimiento y es parte del desarrollo de prácticas de la cursada 2025. Se recomienda explorar los notebooks de forma progresiva.
 
