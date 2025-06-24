@@ -1,14 +1,16 @@
 
 **Nombre del Archivo:**
 ---
-`000_repaso_de_python_variables_funciones_listas_diccionarios_y_tuplas.ipynb`
+`00A_repaso_python_tipos_de_datos.ipynb`
 ---
-`000_repaso_python_bucles_funciones_y_objetos.ipynb`
+`00B_repaso_python_variables_funciones_y_estructuras.ipynb`
+---
+`00C_repaso_python_condicionales_bucles_y_poo.ipynb`
 ---
 
 **Proyecto:** Repaso General de Python: Bucles, Funciones y Programación Orientada a Objetos
 
-**Fecha:** 24/06/2025
+**Fecha:** 30/05/2025
 
 **Autor:** Valeria Feito
 
