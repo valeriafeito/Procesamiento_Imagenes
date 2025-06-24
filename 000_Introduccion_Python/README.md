@@ -8,7 +8,7 @@
 `00C_repaso_python_condicionales_bucles_y_poo.ipynb`
 ---
 
-**Proyecto:** Repaso General de Python: Bucles, Funciones y Programación Orientada a Objetos
+**Proyecto:** Repaso General de Python: Tipos de datos, Condicionales, Bucles, Funciones y Programación Orientada a Objetos.
 
 **Fecha:** 30/05/2025
 
@@ -26,6 +26,10 @@
 **Contenido del Notebook**
 - Repaso de conceptos fundamentales de programación en Python, integrando aspectos clave del lenguaje.
 - Ejemplos progresivos y prácticos para fijar conceptos de:
+  - **Tipos de datos**: `string`, `int`, `float`.
+  - **Funciones**: entrada/ salida, matemáticas, cadenas, otras.
+  - **Estructuras**: `lista`, `tuplas`, `sets`, `diccionarios`.
+  - **Condicionales**: `if`, `elif`, `else`.
   - **Bucles**: `for`, `while`, instrucciones `break` y `continue`.
   - **Funciones**: definición de funciones, argumentos, valores de retorno, ámbito de variables.
   - **Programación Orientada a Objetos (POO)**: clases, atributos, métodos, constructores y herencia.
